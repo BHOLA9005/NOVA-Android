@@ -1,0 +1,9 @@
+NOVA Android V1
+
+Android Studio mein project folder open karein.
+Gradle sync hone dein.
+Build > Build Bundle(s) / APK(s) > Build APK(s).
+APK yahan milega:
+app/build/outputs/apk/debug/app-debug.apk
+
+Note: Is starter Android V1 mein voice, TTS aur web search hain. Secure AI API integration ko production app mein backend ke through karna recommended hai; API key ko APK ke andar hard-code na karein.
