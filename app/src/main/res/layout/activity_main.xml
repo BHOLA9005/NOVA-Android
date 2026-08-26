@@ -14,8 +14,10 @@
         android:gravity="top" android:padding="18dp" android:background="#111827"
         android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
 
-    <EditText android:id="@+id/input" android:hint="NOVA se kuch poochiye..."
-        android:textColor="#FFFFFF" android:hintTextColor="#9CA3AF"
+<EditText android:id="@+id/input"
+    android:hint="NOVA se kuch poochiye..."
+    android:textColor="#FFFFFF"
+    android:textColorHint="#9CA3AF"
         android:background="#1F2937" android:padding="14dp"
         android:layout_width="match_parent" android:layout_height="wrap_content"
         android:layout_marginTop="12dp"/>
