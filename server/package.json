@@ -1,0 +1,13 @@
+{
+  "name": "nova-live-location-server",
+  "version": "1.0.0",
+  "description": "NOVA live location backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  }
+}
